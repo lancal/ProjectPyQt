@@ -1,0 +1,2 @@
+module Charts
+plugin pyqt5qmlplugin /usr/local/Cellar/qt/5.12.0/plugins/PyQt5

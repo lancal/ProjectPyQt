@@ -1,0 +1,6 @@
+/Users/alan/PycharmProjects/ProjectPyQt/lib/python3.6/site-packages/sipconfig.py
+/Users/alan/PycharmProjects/ProjectPyQt/lib/python3.6/site-packages/sipdistutils.py
+/Users/alan/PycharmProjects/ProjectPyQt/include/python3.6m/sip.h
+/Users/alan/PycharmProjects/ProjectPyQt/bin/sip
+/Users/alan/PycharmProjects/ProjectPyQt/lib/python3.6/site-packages/sip.pyi
+/Users/alan/PycharmProjects/ProjectPyQt/lib/python3.6/site-packages/sip.so
